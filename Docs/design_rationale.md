@@ -168,3 +168,4 @@ These design choices support both research reproducibility and eventual producti
 The low-cost BOM ($80–100) demonstrates feasibility for resource-limited settings. Battery-powered SD logging proves autonomous field operation. Dual sensor modalities provide validation and robustness. Weatherproofing and LiPo safety consider real-world deployment from the outset.
 
 Productization would consolidate breadboard circuitry onto custom PCB, integrate ATSAMD51 on-board, potentially eliminate redundant microphone pathways, and use injection-molded enclosures. However, the core architecture—low-power MCU, piezo + acoustic sensors, SD logging, LiPo power—remains unchanged, ensuring continuity from prototype to product.
+
